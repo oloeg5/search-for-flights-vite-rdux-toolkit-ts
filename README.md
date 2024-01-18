@@ -27,7 +27,7 @@ If you are developing a production application, we recommend updating the config
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
 -В проекте использован фэйковый API => server-json,
--Репозиторий на server-json => https://github.com/BatanAndrei/json-server-for-search-aviatickets.git => читай README
+-Репозиторий на server-json => https://github.com/oloeg5/json-server-for-search-aviatickets.git => читай README
   
  
 
